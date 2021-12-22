@@ -8,10 +8,10 @@ Các chức năng của phần mềm đều có thể được sử dụng khi k
 Nếu mọi người gặp lỗi khi sử dụng phần mềm này, hay mọi người muốn góp ý về phần mềm, mọi người có thể góp ý qua địa chỉ liên lạc phía dưới. Mình chắc chắn sẽ phản hồi và giải quyết chúng.
 <hr>
 <b>English</b>:<br>
-VSN is a private source code mobile app that helps user draw numerology diagram such as birthday diagram, name diagram,... instead of drawing manually.
-This app is not coded for sending user information to developer or any 3rd party. All data in this app (user fullname, birthday, and settings) will be only be stored in user's mobile device. If user uninstall this app, these information will be deleted.
-Using this app required no internet connection, all calculation and drawing are all coded inside this app. This app doesn't call any API or using third-party software.
-If you have any question or sugession, please contact me through the below email. I will surely reply as soon as possible.
+VSN is a private source code mobile app that helps user draw numerology diagram such as birthday diagram, name diagram,... instead of drawing manually.<br><br>
+This app is not coded for sending user information to developer or any 3rd party. All data in this app (user fullname, birthday, and settings) will be only be stored in user's mobile device. If user uninstall this app, these information will be deleted.<br><br>
+Using this app required no internet connection, all calculation and drawing are all coded inside this app. This app doesn't call any API or using third-party software.<br><br>
+If you have any question or sugession, please contact me through the below email. I will surely reply as soon as possible.<br><br>
 <br><br>
 Nguyễn Hoàng Nam<br>
 nghnam010100@gmail.com
